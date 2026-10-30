@@ -1,0 +1,192 @@
+{
+    "172.20.10.1": {
+        "name": "Unknown Device",
+        "ip": "172.20.10.1",
+        "mac": "f6:e8:c7:45:da:64",
+        "status": "Offline",
+        "last_seen": "2026-06-02 07:30:35 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.1": {
+        "name": "homerouter.cpe",
+        "ip": "192.168.8.1",
+        "mac": "62:f0:85:74:e3:b0",
+        "status": "Online",
+        "last_seen": "2026-06-28 07:10:55 PM",
+        "icon": "\ud83d\udcf6",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.7": {
+        "name": "HAMMAD",
+        "ip": "192.168.8.7",
+        "mac": "52:43:ca:e6:b2:2c",
+        "status": "Online",
+        "last_seen": "2026-06-28 07:10:55 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.6": {
+        "name": "iPad",
+        "ip": "192.168.8.6",
+        "mac": "42:92:e8:8e:86:52",
+        "status": "Offline",
+        "last_seen": "2026-04-30 11:31:54 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.11": {
+        "name": "iPad",
+        "ip": "192.168.8.11",
+        "mac": "8a:29:8e:5a:ea:a5",
+        "status": "Offline",
+        "last_seen": "2026-04-30 10:07:37 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.12": {
+        "name": "A03s-alkhas-b-mhmd",
+        "ip": "192.168.8.12",
+        "mac": "1a:0b:f1:fc:6b:4d",
+        "status": "Online",
+        "last_seen": "2026-06-28 07:10:55 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.17": {
+        "name": "iPhone",
+        "ip": "192.168.8.17",
+        "mac": "ca:16:a2:d0:78:e9",
+        "status": "Offline",
+        "last_seen": "2026-04-30 11:31:54 PM",
+        "icon": "\ud83d\udcf1",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.19": {
+        "name": "iPad",
+        "ip": "192.168.8.19",
+        "mac": "f2:6e:77:9d:e8:d9",
+        "status": "Offline",
+        "last_seen": "2026-04-30 11:00:23 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.16": {
+        "name": "iPhone",
+        "ip": "192.168.8.16",
+        "mac": "c2:3d:ad:43:f8:d5",
+        "status": "Offline",
+        "last_seen": "2026-04-30 11:33:06 PM",
+        "icon": "\ud83d\udcf1",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.5": {
+        "name": "iPhone",
+        "ip": "192.168.8.5",
+        "mac": "82:9f:6e:0b:4e:82",
+        "status": "Online",
+        "last_seen": "2026-06-28 07:10:55 PM",
+        "icon": "\ud83d\udcf1",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "172.20.10.15": {
+        "name": "Unknown Device",
+        "ip": "172.20.10.15",
+        "mac": "ff:ff:ff:ff:ff:ff",
+        "status": "Offline",
+        "last_seen": "2026-06-02 07:30:35 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "172.20.10.3": {
+        "name": "Samsung Device",
+        "ip": "172.20.10.3",
+        "mac": "cc:66:0a:b9:39:19",
+        "status": "Offline",
+        "last_seen": "2026-06-02 07:28:51 PM",
+        "icon": "\ud83d\udcf1",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.20": {
+        "name": "iPhone",
+        "ip": "192.168.8.20",
+        "mac": "c2:3d:ad:43:f8:d5",
+        "status": "Online",
+        "last_seen": "2026-06-28 07:10:55 PM",
+        "icon": "\ud83d\udcf1",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.58": {
+        "name": "iPhone",
+        "ip": "192.168.8.58",
+        "mac": "3e:18:5c:7e:5d:39",
+        "status": "Offline",
+        "last_seen": "2026-06-28 07:08:07 PM",
+        "icon": "\ud83d\udcf1",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.27": {
+        "name": "iPad",
+        "ip": "192.168.8.27",
+        "mac": "42:92:e8:8e:86:52",
+        "status": "Online",
+        "last_seen": "2026-06-28 07:10:55 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.42": {
+        "name": "Galaxy-A05",
+        "ip": "192.168.8.42",
+        "mac": "e6:c3:63:77:5f:3d",
+        "status": "Offline",
+        "last_seen": "2026-06-28 07:08:07 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.67": {
+        "name": "iPad-5",
+        "ip": "192.168.8.67",
+        "mac": "34:2b:6e:4e:92:22",
+        "status": "Online",
+        "last_seen": "2026-06-28 07:10:55 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.61": {
+        "name": "mhmd",
+        "ip": "192.168.8.61",
+        "mac": "cc:66:0a:b9:39:19",
+        "status": "Online",
+        "last_seen": "2026-06-28 07:10:55 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": false
+    },
+    "192.168.8.36": {
+        "name": ".",
+        "ip": "192.168.8.36",
+        "mac": "fe:2f:e2:b4:8a:00",
+        "status": "Online",
+        "last_seen": "2026-06-28 07:10:55 PM",
+        "icon": "\ud83d\udda5\ufe0f",
+        "device_type": "Unknown Device",
+        "is_new": true
+    }
+}
