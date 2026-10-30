@@ -1,4 +1,3 @@
-تفضل هذا هو نص الـ `README.md` كاملاً وجاهزاً للنسخ واللصق مباشرة في الصفحة الظاهرة لديك:
 
 ```markdown
 # 🌐 Network Monitoring Dashboard
